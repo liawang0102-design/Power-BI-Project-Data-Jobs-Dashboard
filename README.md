@@ -9,6 +9,23 @@ Interactive Power BI dashboard analyzing data job postings with a focus on **sal
 - Job attributes (remote/benefits)
 - Location-based views + drill-through page
 
+### Dashboard capabilities
+- **Market overview KPIs**: job volume, average salary, remote share (and other key indicators)
+- **Salary analytics**: comparisons across job titles + distribution views
+- **Trend analysis**: job posting volume over time
+- **Job attributes**: remote/on-site, benefits indicators, and other posting features
+- **Geographic view**: job distribution across regions/countries
+- **Drill-through page**: deep dive into a **specific job title** (salary, trend, attributes)
+
+
+## Skills demonstrated (what this project shows)
+
+- **Data modeling & transformation**: shaping raw job postings into analysis-ready tables (Power Query)
+- **KPI design**: defining measurable metrics for market insights (salary, demand, remote share, etc.)
+- **Dashboard design**: creating clear layout, consistent visuals, and stakeholder-friendly storytelling
+- **User experience**: slicers, cross-filtering, and drill-through for quick exploration
+
+
 ## Tools
 - Power BI Desktop
 - Power Query (data cleaning & transformation)
